@@ -91,10 +91,5 @@ Focus: Supplier performance, pricing, warehouse load, and turnover
 
 ---
 
-## 🚀 Submission Notes
-- Complies with FP20 Challenge rules (2-page limit, ZoomCharts used)
-- Interactive, intuitive, and analytics-rich dashboard
-- Judging Criteria met: usability, storytelling, visual quality, and insights
-
 
 
